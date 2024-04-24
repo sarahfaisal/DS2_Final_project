@@ -1,0 +1,7 @@
+g++ *cpp plots/pbplots.cpp plots/supportLib.cpp -lm
+.\a.exe
+if you face this error:
+"Program 'a.exe' failed to run: Operation did not complete successfully because the file contains a virus or potentially unwanted softwar"
+wo to windows -> virus and threat protection settings -> manage settings -> exclusions -> add or remove exclusions -> select your code file\
+video:
+https://youtu.be/zGiNGnX5dYg?si=jucCOErJPU3oBVMh
